@@ -1,0 +1,33 @@
+#six{
+    height: 55vh;
+    width: 99vw;
+    /* background-color: royalblue; */
+    padding-top: 170px;
+    text-align: center;
+}
+
+
+.svg{
+    height: 90px;
+    width: 99vw;
+    /* background-color: royalblue; */
+}
+
+#six > h1{
+    margin-bottom: 15px;
+    font-size: 35px;
+}
+
+#six > p{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
+    font-size: 15px;
+}
+
+#six > span{
+    background-color: rgb(186, 236, 86);
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 18px;
+}

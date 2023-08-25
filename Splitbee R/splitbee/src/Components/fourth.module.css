@@ -1,0 +1,31 @@
+#fourth{
+    height: 50vh;
+    width: 99vw;
+    /* background-color: grey; */
+    display: flex;
+}
+
+
+#fourth > #left{
+    height: 100%;
+    width: 50%;
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+#fourth > #right{
+    height: 100%;
+    width: 50%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#fourth > #right > svg{
+    height: 50vh;
+    width: 70vw;
+}

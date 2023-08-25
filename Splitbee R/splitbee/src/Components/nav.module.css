@@ -1,0 +1,26 @@
+#nav{
+    height: 80px;
+    width: 99vw;
+    background-color: rgb(231, 235, 241);
+}
+
+#nav>article{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* background-color: blue; */
+    height: 100%;
+    width: 90%;
+    padding-left: 170px;
+}
+
+#nav>article>#items{
+    margin-left: 400px;
+}
+
+#nav>article > #items>span{
+    margin-left: 20px;
+    color: grey;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}

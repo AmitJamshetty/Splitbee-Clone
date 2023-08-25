@@ -1,0 +1,39 @@
+#seven{
+    height: 110vh;
+    width: 99vw;
+    /* background-color: bisque; */
+}
+
+#seven > h1{
+    text-align: center;
+    margin: 300px 0 20px 0;
+}
+
+.out_block{
+    height: 45vh;
+    width: 99vw;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.block{
+    text-align: center;
+}
+
+
+.block > img{
+    margin-bottom: 10px;
+}
+
+.block > h4{
+    margin-bottom: 8px;
+    font-size: 17px;
+}
+
+.block > p{
+    line-height: 1.5;
+    color: grey;
+    font-size: 17px;
+}
